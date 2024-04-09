@@ -38,3 +38,12 @@ body{
 .escola-titulo {
     padding: 24px 0;
 }
+
+.estudante-todos{
+    display:gred;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
